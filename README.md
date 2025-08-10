@@ -11,7 +11,7 @@ Using SQL, I derived key performance metrics:
 -Average transaction amount
 -Year-over-year comparison
 By writing optimized queries on the structured tables (after importing the Excel data into a relational format), I ensured that the insights were clean, aggregated, and analytics-ready.
-With my SQL outputs and cleaned tables, I transitioned into Power BI to bring the data to life.
+After finding necessary insights, I transitioned into Power BI to bring the data to life.
 
 Here’s how I built the dashboard:
 -Related tables using keys like state, year, and quarter
