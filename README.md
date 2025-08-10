@@ -19,9 +19,14 @@ Here’s how I built the dashboard:
 ---Single direction for most lookups (e.g., calendar to transaction tables)
 ---Bi-directional only when necessary for slicers and measures to interact correctly
 
+I've divided the whole Power BI report into 3 sections
+-Overview
+-Regional Insights
+-Temporal Insights
+
 DAX Measures Created:
 -Total Registered Users, dynamic with slicers (state, year, quarter)
--Average Transaction Amount per Year
+-Average Transaction Amount
 -State with Maximum Usage (via a calculated KPI)
 -National Average Transaction Amount
 -Other indicators like App Opens and Device Penetration
@@ -38,4 +43,4 @@ The final dashboard acts as a business intelligence tool, answering key question
 -How are transaction behaviors changing over time?
 -What does the regional distribution of users and app engagement look like?
 
-It brings out hidden stories in the data — uncovering regional trends, and growth opportunities.
+# This whole project brought hidden stories in the data — uncovering regional trends, and growth opportunities, using sql verification is also done..
