@@ -1,4 +1,4 @@
-PhonePe India Analytics Dashboard – SQL + Power BI
+# PhonePe India Analytics Dashboard – SQL + Power BI
 In this project, I set out to understand and visualize how digital payments are transforming India — using real-world data from PhonePe, one of India’s leading digital payment platforms.
 
 I began with an Excel dataset containing multiple sheets that covered different layers of PhonePe's digital activity:
